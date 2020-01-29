@@ -17,3 +17,5 @@ class Timer {
 }
 
 const timer = new Timer(durationInput, startButton, pauseButton);
+
+//lessons by Stephen
